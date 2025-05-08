@@ -27,7 +27,7 @@ An automation suite for running various bots on the Monad network. This suite al
 
 4. (Optional) Adjust configuration in `config.py`.
 
-## if new  Ubuntu/Debian can
+## if new  Ubuntu/Debian you can use
    
    ```
    cd ~/monadbot
