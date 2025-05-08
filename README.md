@@ -14,6 +14,7 @@ An automation suite for running various bots on the Monad network. This suite al
 ## Setup
 
 1. Install requirements:
+   
    ```
    pip install -r requirements.txt
    ```
@@ -26,6 +27,20 @@ An automation suite for running various bots on the Monad network. This suite al
 
 4. (Optional) Adjust configuration in `config.py`.
 
+## if new  Ubuntu/Debian
+   
+   ```
+   cd ~/monadbot
+   ```
+   ```
+   python3 -m venv venv  
+   ```
+   ```
+   source venv/bin/activate
+   ```
+   ```
+   pip install -r requirements.txt
+   ```
 ## Usage
 
 Run the main script:
